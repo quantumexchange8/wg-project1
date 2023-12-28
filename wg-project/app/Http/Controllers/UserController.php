@@ -22,6 +22,21 @@ class UserController extends Controller
     {
         return view('frontend.contact');
     }
+    public function wealth()
+    {
+        return view('frontend.wealth');
+    }
+    public function approach()
+    {
+        return view('frontend.approach');
+    }
+
+
+    public function team()
+    {
+        // Your "Team" page logic goes here
+        return view('frontend.team');
+    }
     public function service()
     {
         return view('frontend.service');

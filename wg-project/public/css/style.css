@@ -640,6 +640,7 @@ body.boxed-layout {
 
 .no-margins, .no-margins .content {
     margin: 0 !important;
+    
 }
 
 .no-paddings, .no-paddings .content {
@@ -5061,6 +5062,7 @@ EMPTY - IMAGE - VIDEO - SLIDER
     padding-top: 25px;
     padding-bottom: 25px;
 }
+
 
 div.content {
     padding-left: 15px;

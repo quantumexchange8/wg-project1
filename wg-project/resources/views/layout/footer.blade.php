@@ -9,22 +9,19 @@
                             <h3>Menu</h3>
                             <ul class="ul-dots text-s">
                                 <li><a href="#">Home</a></li>
-                                <li><a href="#">Contacts</a></li>
-                                <li><a href="#">Future projects</a></li>
-                                <li><a href="#">Locations</a></li>
-                                <li><a href="#">Team members</a></li>
-                                <li><a href="#">Company</a></li>
+                                <li><a href="#">About Us</a></li>
+                                <li><a href="#">FAQ</a></li>
+                                <li><a href="#">Contact</a></li>
                             </ul>
                         </div>
                         <div class="col-md-6">
-                            <h3>Pages</h3>
+                            <h3>Services</h3>
                             <ul class="ul-dots text-s">
-                                <li><a href="#">Support</a></li>
-                                <li><a href="#">Terms of services</a></li>
-                                <li><a href="#">RSS Feeds</a></li>
-                                <li><a href="#">Partnerships</a></li>
-                                <li><a href="#">RSS Feeds</a></li>
-                                <li><a href="#">Latest news</a></li>
+                                <li><a href="#">Wealth Management</a></li>
+                                <li><a href="#">Retirement Planning</a></li>
+                                <li><a href="#">Real Estate</a></li>
+                                <li><a href="#">Private Equity</a></li>
+                                <li><a href="#">Hedge Funds </a></li>                             
                             </ul>
                         </div>
                     </div>
