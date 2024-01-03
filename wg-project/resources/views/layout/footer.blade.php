@@ -1,44 +1,9 @@
-<div id="preloader"></div>
-<footer class="footer-base footer-bg-color">
+<footer class="footer-base">
     <div class="content">
         <div class="container">
             <div class="row">
-                <div class="col-md-4 footer-left text-left">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <h3>Menu</h3>
-                            <ul class="ul-dots text-s">
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">About Us</a></li>
-                                <li><a href="#">FAQ</a></li>
-                                <li><a href="#">Contact</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-6">
-                            <h3>Services</h3>
-                            <ul class="ul-dots text-s">
-                                <li><a href="#">Wealth Management</a></li>
-                                <li><a href="#">Retirement Planning</a></li>
-                                <li><a href="#">Real Estate</a></li>
-                                <li><a href="#">Private Equity</a></li>
-                                <li><a href="#">Hedge Funds </a></li>                             
-                            </ul>
-                        </div>
-                    </div>
-                </div>
                 <div class="col-md-4 footer-center text-left">
-                    <h3>We are dreamers</h3>
-                    <p class="text-s">
-                        Create stunning websites with this awesome clean and modern template, ts and innovative designs concepts.
-                    </p>
-                    <hr class="space s" />
-                    <h3>We are the state of art</h3>
-                    <p class="text-s">
-                        Tincidunt integer eu augue augue nunc elit dolor, luctus placerat scelerisque euismod, iaculis eu lacus nunco.
-                    </p>
-                </div>
-                <div class="col-md-4 footer-right text-left">
-                    <img width="100" src="../../../images/logo.png" alt="" />
+                    <img width="120" src="../images/logo.png" alt="" />
                     <hr class="space m" />
                     <p class="text-s">Collins Street West 8007, San Fransico, United States.</p>
                     <div class="tag-row text-s">
@@ -53,19 +18,44 @@
                         <a target="_blank" href="#" data-social="share-twitter">
                             <i class="fa fa-twitter text-xs circle"></i>
                         </a>
-                        <a target="_blank" href="#" data-social="share-google">
-                            <i class="fa fa-google-plus text-xs circle"></i>
-                        </a>
                         <a target="_blank" href="#" data-social="share-linkedin">
                             <i class="fa fa-linkedin text-xs circle"></i>
                         </a>
                     </div>
                 </div>
+                <div class="col-md-4 footer-left text-left">
+                    <div class="row">
+                        <div class="col-md-6 text-s">
+                            <h3>Menu</h3>
+                            <a href="#">Home</a><br />
+                            <a href="#">Contacts</a><br />
+                            <a href="#">Future projects</a><br />
+                            <a href="#">Locations</a><br />
+                            <a href="#">Latest news</a><br />
+
+                        </div>
+                        <div class="col-md-6 text-s">
+                            <h3>Pages</h3>
+                            <a href="#">Support</a><br />
+                            <a href="#">Terms of services</a><br />
+                            <a href="#">RSS Feeds</a><br />
+                            <a href="#">Partnerships</a><br />
+                            <a href="#">Latest news</a><br />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 footer-left text-left">
+                    <h3>You can trust us</h3>
+                    <p class="text-s">
+                        Utenim ad minim veniam quis nostrud exercitation ullamco lorem ipsum dolor sit ametullamco lorem ipsum dolor sit ametullamco lorem ipsum dolor sit amet consectetur adipiscing elitsed do eiusmo.
+                    </p>
+                  
+                </div>
             </div>
         </div>
         <div class="row copy-row">
             <div class="col-md-12 copy-text">
-                © 2023 WG Project - Financial Institution Company <a href="@">wg.co</a>
+                © 2024 Company - Financial Planning Services <a href="#"></a>
             </div>
         </div>
     </div>
