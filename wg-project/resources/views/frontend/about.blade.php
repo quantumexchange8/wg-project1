@@ -1,6 +1,5 @@
 @extends('layout.master')
-@section('title')
-About Us
+@section('title') About Us
 @endsection
 @section('content')
 <div class="header-title ken-burn white" data-parallax="scroll" data-position="top" data-natural-height="650" data-natural-width="1920"  style="background: linear-gradient(to right, rgba(0, 0, 0, 0.367), rgba(0, 0, 0, 0)), url('{{asset('images/bg.jpg')}}'); background-size: cover; background-blend-mode: multiply;background-position: center 30%;">

@@ -307,7 +307,7 @@ Home
         </div>
     </div>
 </div>
-<div class="section-bg-image parallax-window" data-natural-height="650" data-natural-width="1980" data-parallax="scroll" data-image-src="../images/bg-2.jpg">
+<div class="section-bg-image parallax-window" data-natural-height="650" data-natural-width="1980" data-parallax="scroll" data-image-src="{{asset('images/bg-2.jpg')}}">
     <div class="container content">
         <div class="row vertical-row">
             <div class="col-md-8 opacity-8 white">
@@ -400,7 +400,7 @@ Home
                 <h4 class="text-l">Send Us Question</h4>
                 <p>Contact us for any inquiries or questions.</p>
                 <hr class="space s" />
-                <form action="http://www.framework-y.com/scripts/php/contact-form.php" class="form-box form-ajax" method="post" data-email="federico@pixor.it">
+                <form action="#" class="form-box form-ajax" method="post" data-email="federico@pixor.it">
                     <div class="row">
                         <div class="col-md-12">
                             <input id="name" name="name" placeholder="name" type="text" class="form-control form-value" required>
